@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="25%" src="https://i.ibb.co/ZBwvGJd/20220913-131222.jpg" height="175px"/></a>
+<a href="#"><img width="100%" height="25%" src="https://i.ibb.co/rfXkJZx/20220915-150119.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mozahid Ahmed </h1>
 <h3 align="center">I'm a Front-End  Developer from Bangladesh.</h3>
