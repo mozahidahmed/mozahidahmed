@@ -71,12 +71,12 @@
 <br/>
 <br/>
 
-https://www.linkedin.com/in/mozahid-islam043356241
+
 
 ## Connect with me:
 <p align="left">
 
-<a href="[https://github.com/mozahidahmed]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="md-junayed-97183a23a/" height="40" /></a>
+<a href="https://github.com/mozahidahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="md-junayed-97183a23a/" height="40" /></a>
 <a href="https://linkedin.com/in/mozahid-islam043356241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mozahid-islam043356241/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100042861825143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100042861825143" height="30" width="40" /></a>
 <a href="https://instagram.com/junayed740/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junayed740/" height="30" width="40" /></a>
