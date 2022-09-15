@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **mozahidwebmin11d10@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TBtURboG22hdCB9taExejXlQ7AWNBfsY/view](https://drive.google.com/file/d/1TBtURboG22hdCB9taExejXlQ7AWNBfsY/view)
+
 
 
 
@@ -74,6 +76,13 @@
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/mozahid-islam043356241/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="[https://github.com/Junayed5]" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="md-junayed-97183a23a/" height="40" /></a>
+<a href="https://linkedin.com/in/md-junayed-97183a23a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-junayed-97183a23a/" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100042861825143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100042861825143" height="30" width="40" /></a>
+<a href="https://instagram.com/junayed740/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="junayed740/" height="30" width="40" /></a>
+<a href="https://discord.gg/#8039" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#8039" height="30" width="40" /></a>
+</p>
+
 </p>
 
 
