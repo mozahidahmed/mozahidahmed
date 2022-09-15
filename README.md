@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mozahidwebmin11d10@gmail.com**
 
-- 📄 Know about my experiences **[My Resume](https://drive.google.com/file/d/1F6ly4iI5i2jtwWhl4erxe4Ou36T5K-7J/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1F6ly4iI5i2jtwWhl4erxe4Ou36T5K-7J/view?usp=sharing)
 
 
 
