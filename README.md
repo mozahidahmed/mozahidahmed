@@ -58,7 +58,7 @@
 
   <br/>
 
-  <a href="https://github.com/mozahidahmed/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozahidahmed&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/mozahidahmed/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozahidahmed&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&theme=react" /></a>
   <br/>
   
 [![mozahidahmed's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mozahidahmed&mozahidahmed=This%20is%20a%20title&hide_border=true&theme=react)](https://github.com/mozahidahmed/github-readme-activity-graph)
