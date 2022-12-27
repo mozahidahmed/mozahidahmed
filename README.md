@@ -66,7 +66,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/mozahidahmed/github-readme-activity-graph"><img alt="mozahid Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mozahidahmed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img align="center" src="https://camo.githubusercontent.com/e98cd630811344190c4f046bf3cce6705addf398f8e5dee8305d729e062104db/68747470733a2f2f692e6962622e636f2f313277423056732f53637265656e73686f742d31342e706e67" alt="" data-canonical-src="https://i.ibb.co/12wB0Vs/Screenshot-14.png" style="max-width: 100%;">
 
 
 
