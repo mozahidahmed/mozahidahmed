@@ -68,6 +68,8 @@
 
 <a href="https://github.com/mozahidahmed/github-readme-activity-graph"><img alt="mozahid Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mozahidahmed&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mozahidahmed&theme=midnight-purple)](https://git.io/streak-stats)
+
 <br/>
 <br/>
 
