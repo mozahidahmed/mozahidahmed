@@ -66,7 +66,10 @@
 <br/>
 <br/>
 
-<img align="center" src="https://camo.githubusercontent.com/e98cd630811344190c4f046bf3cce6705addf398f8e5dee8305d729e062104db/68747470733a2f2f692e6962622e636f2f313277423056732f53637265656e73686f742d31342e706e67" alt="" data-canonical-src="https://i.ibb.co/12wB0Vs/Screenshot-14.png" style="max-width: 100%;">
+<img align="center" <p><a href="https://www.buymeacoffee.com/@mozahidahmed"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mozahidahmed3&show_icons=true&locale=en&layout=compact" alt="" /></p>
+
 
 
 
