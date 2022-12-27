@@ -60,7 +60,8 @@
 
   <a href="https://github.com/mozahidahmed/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mozahidahmed&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mozahidahmed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>
