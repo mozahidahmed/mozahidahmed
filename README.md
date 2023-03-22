@@ -3,7 +3,7 @@
 <h3 align="center">ɪ'ᴍ ᴀ ꜰʀᴏɴᴛ-ᴇɴᴅ  ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇꜱʜ.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ 𝒜𝒷𝑜𝓊𝓉 𝑀𝑒
 
 
 - 🔭 I’m currently working on **[Education Management Website ](https://taskla-hr.netlify.app/)**
@@ -21,7 +21,7 @@
 
 
 
-## 🚀 Languages and Tools:
+## 🚀 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼:
 <p align="left"> 
     <a href="https://www.java.com" target="_blank">  </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -53,7 +53,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats 
+## 📊 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼
 
   <br/>
 
@@ -76,7 +76,7 @@
 
 
 
-## Connect with me:
+## 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮:
 <p align="left">
 
 <a href="https://github.com/mozahidahmed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="md-junayed-97183a23a/" height="40" /></a>
@@ -89,7 +89,7 @@
 
 
 
-## ❤ Views and Followers
+## ❤ 𝓥𝓲𝓮𝔀𝓼 𝓪𝓷𝓭 𝓕𝓸𝓵𝓵𝓸𝔀𝓮𝓻𝓼
 <a href="https://github.com/mozahidahmed/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mozahidahmed">
 </a>
