@@ -1,6 +1,6 @@
 <img width="100%" height="" src="https://i.ibb.co/1Rn90Rw/thomas-park-SS-r7-Bv-Cq-TY-unsplash.jpg"></img>
-<h1 align="center">Ｈｉ ， <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Ｉ＇ｍ Ｍｏｚａｈｉｄ Ａｈｍｅｄ</h1>
-<h3 align="center">I'm a Front-End  Developer from Bangladesh.</h3>
+<h1 align="center">  ʜɪ ,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ɪ'ᴍ ᴍᴏᴢᴀʜɪᴅ ᴀʜᴍᴇᴅ</h1>
+<h3 align="center">ɪ'ᴍ ᴀ ꜰʀᴏɴᴛ-ᴇɴᴅ  ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇꜱʜ.</h3>
 
 
 ## 🙋‍♂️ About Me
