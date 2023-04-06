@@ -1,4 +1,4 @@
-<img width="100%" height="" src="https://i.ibb.co/1Rn90Rw/thomas-park-SS-r7-Bv-Cq-TY-unsplash.jpg"></img>
+<img width="100%" height="" src="https://i.ibb.co/wr61mh9/png-20230406-233818-0000.png"></img>
 <h1 align="center">  ʜɪ ,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ɪ'ᴍ ᴍᴏᴢᴀʜɪᴅ ᴀʜᴍᴇᴅ</h1>
 <h3 align="center">ɪ'ᴍ ᴀ ꜰʀᴏɴᴛ-ᴇɴᴅ  ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ʙᴀɴɢʟᴀᴅᴇꜱʜ.</h3>
 
