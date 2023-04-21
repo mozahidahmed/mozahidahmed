@@ -1,5 +1,5 @@
 
-<img width="100%" height="" src="https://i.ibb.co/wr61mh9/png-20230406-233818-0000.png"></img>
+<img width="100%" height="" src="https://i.ibb.co/6B3LM65/342004849-135010196119787-4256415558404136712-n.jpg"></img>
 
 
 <h1 align="center">  ʜɪ ,<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ɪ'ᴍ ᴍᴏᴢᴀʜɪᴅ ᴀʜᴍᴇᴅ</h1>
