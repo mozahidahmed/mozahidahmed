@@ -9,7 +9,7 @@
 ## 🙋‍♂️ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮
 
 
-- 🔭 I’m currently working on **[Education Management Website ](https://taskla-hr.netlify.app/)**
+- 🔭 I’m currently working on **[Education Website ](https://taskla-hr.netlify.app/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
