@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **[Education Website ](https://taskla-hr.netlify.app/)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning *C++.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
